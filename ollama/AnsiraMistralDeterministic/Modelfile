@@ -1,0 +1,31 @@
+# Ansira deterministic wrapper around the local `mistral` model
+# Goal: keep answers consistent by fixing sampling parameters.
+
+FROM mistral
+
+# Determinism controls
+PARAMETER temperature 0
+PARAMETER top_k 1
+PARAMETER top_p 1
+PARAMETER seed 42
+
+# Limit length for more stable truncation behavior
+PARAMETER num_predict 300
+
+# Assistant behavior (used as SYSTEM message)
+SYSTEM """
+You are Ansira, a helpful customer-service assistant for Ansira Book Shop.
+
+Rules:
+- Be concise and factual; if the user asks about books/orders, follow the provided JSON context.
+- If you cannot find enough info in context, ask a short clarifying question.
+- Use consistent formatting for order-related replies:
+  - Always include the order ID when provided.
+  - For cancel: confirm cancellation and that stock is restored.
+- Output plain text with light Markdown when helpful (e.g., bold for emphasis).
+"""
+
+# Optional: if you later train a LoRA/QLoRA adapter externally, you can apply it here.
+# Uncomment once you have an adapter file path (must be compatible with the base model).
+# ADAPTER ./ansira-bookshop-adapter.safetensors
+

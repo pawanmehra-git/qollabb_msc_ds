@@ -1,0 +1,148 @@
+{
+  "books": [
+    {
+      "book_id": "B001",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": 16.99,
+      "stock_quantity": 42
+    },
+    {
+      "book_id": "B002",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fiction",
+      "price": 14.5,
+      "stock_quantity": 28
+    },
+    {
+      "book_id": "B003",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "price": 18.0,
+      "stock_quantity": 35
+    },
+    {
+      "book_id": "B004",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "price": 17.25,
+      "stock_quantity": 19
+    },
+    {
+      "book_id": "B005",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "price": 15.99,
+      "stock_quantity": 19
+    },
+    {
+      "book_id": "B006",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "price": 13.95,
+      "stock_quantity": 30
+    },
+    {
+      "book_id": "B007",
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Fiction",
+      "price": 12.99,
+      "stock_quantity": 15
+    },
+    {
+      "book_id": "B008",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "price": 19.5,
+      "stock_quantity": 24
+    },
+    {
+      "book_id": "B009",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "price": 11.99,
+      "stock_quantity": 37
+    },
+    {
+      "book_id": "B010",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "price": 14.0,
+      "stock_quantity": 18
+    },
+    {
+      "book_id": "B011",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Memoir",
+      "price": 16.5,
+      "stock_quantity": 26
+    },
+    {
+      "book_id": "B012",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 10.99,
+      "stock_quantity": 50
+    },
+    {
+      "book_id": "B013",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Technology",
+      "price": 42.0,
+      "stock_quantity": 12
+    },
+    {
+      "book_id": "B014",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": 12.5,
+      "stock_quantity": 60
+    },
+    {
+      "book_id": "B015",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Classic",
+      "price": 9.99,
+      "stock_quantity": 33
+    },
+    {
+      "book_id": "B016",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "price": 17.0,
+      "stock_quantity": 20
+    },
+    {
+      "book_id": "B017",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Classic",
+      "price": 8.5,
+      "stock_quantity": 25
+    },
+    {
+      "book_id": "B018",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Self-Help",
+      "price": 15.25,
+      "stock_quantity": 21
+    }
+  ]
+}

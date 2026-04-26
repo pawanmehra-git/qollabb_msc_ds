@@ -1,0 +1,194 @@
+{
+  "entries": [
+    {
+      "user_query": "how many books do you have?",
+      "bot_response": "Standard shipping is 3–5 business days; express options are available at checkout.",
+      "timestamp": "2026-03-29T13:34:09Z"
+    },
+    {
+      "user_query": "check",
+      "bot_response": "Cannot reach Ollama. Start the Ollama app and ensure the Mistral model is available (`ollama pull mistral`), then try again.",
+      "timestamp": "2026-03-29T13:34:26Z"
+    },
+    {
+      "user_query": "check",
+      "bot_response": "We currently have a wide selection of books available at Ansira Book Shop. Here are some of the titles you might be interested in:\n\n1. Atomic Habits by James Clear\n2. The Midnight Library by Matt Haig\n3. Sapiens by Yuval Noah Harari\n4. Educated by Tara Westover\n5. Project Hail Mary by Andy Weir\n6. The Psychology of Money by Morgan Housel\n7. Where the Crawdads Sing by Delia Owens\n8. Thinking, Fast and Slow by Daniel Kahneman\n9. Dune by Frank Herbert\n10. The Silent Patient by Alex Michaelides\n11. Becoming by Michelle Obama\n12. The Alchemist by Paulo Coelho\n\nIf you're looking for a specific book or have any other questions, feel free to ask!",
+      "timestamp": "2026-03-29T13:36:03Z"
+    },
+    {
+      "user_query": "i want to buy 1 book of Dune",
+      "bot_response": "Order placed successfully. Your order ID is **10004**.",
+      "timestamp": "2026-03-29T13:36:42Z"
+    },
+    {
+      "user_query": "cancel",
+      "bot_response": "You can cancel placed orders before they ship by saying 'Cancel my order' with your order ID here in chat.",
+      "timestamp": "2026-03-29T13:37:05Z"
+    },
+    {
+      "user_query": "cancel my order 10005",
+      "bot_response": "No order found with ID 10005.",
+      "timestamp": "2026-03-29T13:37:21Z"
+    },
+    {
+      "user_query": "cancel my order 10004",
+      "bot_response": "Order **10004** has been cancelled and stock restored.",
+      "timestamp": "2026-03-29T13:37:33Z"
+    },
+    {
+      "user_query": "i want to buy 3 books of Project Hail Mary",
+      "bot_response": "Order placed successfully. Your order ID is **10005**.",
+      "timestamp": "2026-03-29T13:37:55Z"
+    },
+    {
+      "user_query": "check",
+      "bot_response": "Hello! To check the status of your order, please provide your order number. If you need help finding a specific book or have any other questions, feel free to ask! Some popular books we carry include \"Atomic Habits\" by James Clear, \"The Midnight Library\" by Matt Haig, and many more. Is there anything I can assist you with today?",
+      "timestamp": "2026-03-30T05:45:03Z"
+    },
+    {
+      "user_query": "give me book list",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-03-30T05:45:27Z"
+    },
+    {
+      "user_query": "give me list of books we have only book name",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B005 | Project Hail Mary | Andy Weir | Science Fiction | $15.99 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 31 |\n| B007 | Where the Crawdads Sing | Delia Owens | Fiction | $12.99 | 15 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n| B015 | 1984 | George Orwell | Classic | $9.99 | 33 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-03-30T05:45:42Z"
+    },
+    {
+      "user_query": "i want to buy 1 book of The Psychology of Money",
+      "bot_response": "Order placed successfully. Your order ID is **10006**.",
+      "timestamp": "2026-03-30T05:46:00Z"
+    },
+    {
+      "user_query": "what is your name",
+      "bot_response": "Use the chat: say 'Check my order' followed by your order ID, or check your confirmation email for a tracking link.",
+      "timestamp": "2026-03-30T05:46:43Z"
+    },
+    {
+      "user_query": "check my order 10004",
+      "bot_response": "Order **10004**: Dune × 1 — Status: **Cancelled** — Total: $11.99",
+      "timestamp": "2026-03-30T05:46:54Z"
+    },
+    {
+      "user_query": "check my order 10005",
+      "bot_response": "Order **10005**: Project Hail Mary × 3 — Status: **Placed** — Total: $47.97",
+      "timestamp": "2026-03-30T05:47:06Z"
+    },
+    {
+      "user_query": "give me list of books",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 30 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-03-30T06:56:30Z"
+    },
+    {
+      "user_query": "brows books",
+      "bot_response": "Hello! I'm **Ansira** from Ansira Book Shop. Here are some of the books we carry:\n\n1. Atomic Habits by James Clear\n2. The Midnight Library by Matt Haig\n3. Sapiens by Yuval Noah Harari\n4. Educated by Tara Westover\n5. Project Hail Mary by Andy Weir\n6. The Psychology of Money by Morgan Housel\n7. Where the Crawdads Sing by Delia Owens\n8. Thinking, Fast and Slow by Daniel Kahneman\n9. Dune by Frank Herbert\n10. The Silent Patient by Alex Michaelides\n11. Becoming by Michelle Obama\n12. The Alchemist by Paulo Coelho\n\nIf you'd like to know more about any of these books or browse through our entire collection, just let me know!",
+      "timestamp": "2026-03-30T07:00:15Z"
+    },
+    {
+      "user_query": "i wan to buy 3 books of Dune",
+      "bot_response": "Order placed successfully. Your order ID is **10007**. Total: **$35.97**.",
+      "timestamp": "2026-03-30T07:00:45Z"
+    },
+    {
+      "user_query": "show me list of orders",
+      "bot_response": "Hello! Here is your order history with Ansira Book Shop:\n\n1. Order ID: 10007, Total: $35.97 - Dune (3 copies)\n\nIf you need any assistance or have questions about your orders, feel free to ask!",
+      "timestamp": "2026-03-30T07:01:02Z"
+    },
+    {
+      "user_query": "show me book list",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-03-30T07:01:13Z"
+    },
+    {
+      "user_query": "show me list of boos",
+      "bot_response": "Here is a list of some books available at Ansira Book Shop:\n\n1. Atomic Habits by James Clear\n2. The Midnight Library by Matt Haig\n3. Sapiens by Yuval Noah Harari\n4. Educated by Tara Westover\n5. Project Hail Mary by Andy Weir\n6. The Psychology of Money by Morgan Housel\n7. Where the Crawdads Sing by Delia Owens\n8. Thinking, Fast and Slow by Daniel Kahneman\n9. Dune by Frank Herbert\n10. The Silent Patient by Alex Michaelides\n11. Becoming by Michelle Obama\n12. The Alchemist by Paulo Coelho",
+      "timestamp": "2026-03-30T07:06:34Z"
+    },
+    {
+      "user_query": "show me list of books and it's price",
+      "bot_response": "Here is the book list:\n\n1. Atomic Habits by James Clear (Genre: Self-Help) - $16.99 - Stock: 42\n2. Educated by Tara Westover (Genre: Memoir) - $17.25 - Stock: 19\n3. Project Hail Mary by Andy Weir (Genre: Science Fiction) - $15.99 - Stock: 19\n4. The Psychology of Money by Morgan Housel (Genre: Finance) - $13.95 - Stock: 30\n5. Thinking, Fast and Slow by Daniel Kahneman (Genre: Psychology) - $19.50 - Stock: 24\n6. Becoming by Michelle Obama (Genre: Memoir) - $16.50 - Stock: 26\n7. Harry Potter and the Sorcerer's Stone by J.K. Rowling (Genre: Fantasy) - $12.50 - Stock: 60\n8. Pride and Prejudice by Jane Austen (Genre: Classic) - $8.50 - Stock: 25\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-03-30T07:06:46Z"
+    },
+    {
+      "user_query": "give me list of books",
+      "bot_response": "Here is the book list:\n\n1. Atomic Habits by James Clear (Genre: Self-Help) - $16.99 - Stock: 42\n2. Educated by Tara Westover (Genre: Memoir) - $17.25 - Stock: 19\n3. The Psychology of Money by Morgan Housel (Genre: Finance) - $13.95 - Stock: 30\n4. Becoming by Michelle Obama (Genre: Memoir) - $16.50 - Stock: 26\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T12:22:49Z"
+    },
+    {
+      "user_query": "deep work",
+      "bot_response": "Cannot reach Ollama. Start the Ollama app and ensure the Mistral model is available (`ollama pull mistral`), then try again.",
+      "timestamp": "2026-04-23T12:23:07Z"
+    },
+    {
+      "user_query": "deep work",
+      "bot_response": "I'm glad you're interested in \"Deep Work\"! Here are some books that might also appeal to you, as they share similar themes:\n\n1. Deep Work: Rules for Focused Success in a Distracted World by Cal Newport - $16.95 - Stock: 28\n2. The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller and Jay Papasan - $17.00 - Stock: 34\n3. Focus: The Hidden Driver of Excellence by Daniel Goleman - $16.95 - Stock: 22\n4. Essentialism: The Disciplined Pursuit of Less by Greg McKeown - $16.99 - Stock: 20\n\nThese books are all about maximizing productivity, focus, and achieving success in a distracted world. Enjoy your reading!",
+      "timestamp": "2026-04-23T12:25:54Z"
+    },
+    {
+      "user_query": "show me the list of books which i can purachase",
+      "bot_response": "Here is the book list:\n\n1. Atomic Habits by James Clear (Genre: Self-Help) - $16.99 - Stock: 42\n2. The Midnight Library by Matt Haig (Genre: Fiction) - $14.50 - Stock: 28\n3. Educated by Tara Westover (Genre: Memoir) - $17.25 - Stock: 19\n4. The Psychology of Money by Morgan Housel (Genre: Finance) - $13.95 - Stock: 30\n5. Where the Crawdads Sing by Delia Owens (Genre: Fiction) - $12.99 - Stock: 15\n6. The Silent Patient by Alex Michaelides (Genre: Thriller) - $14.00 - Stock: 18\n7. Becoming by Michelle Obama (Genre: Memoir) - $16.50 - Stock: 26\n8. The Alchemist by Paulo Coelho (Genre: Fiction) - $10.99 - Stock: 50\n9. Harry Potter and the Sorcerer's Stone by J.K. Rowling (Genre: Fantasy) - $12.50 - Stock: 60\n10. The Lean Startup by Eric Ries (Genre: Business) - $17.00 - Stock: 20\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T15:55:17Z"
+    },
+    {
+      "user_query": "i want to purchase The Psychology of Money by Morgan Housel  2 books ",
+      "bot_response": "Great choice! I've added 2 copies of \"The Psychology of Money\" by Morgan Housel to your cart. Here is the summary of your order:\n\n1. The Psychology of Money - 2 copies (Genre: Finance) - $13.95 * 2 = $27.90 - Stock: 30 remaining\n\nTo proceed with the payment, please provide me with your billing and shipping information. If you have any questions or need assistance, feel free to ask!",
+      "timestamp": "2026-04-23T15:55:40Z"
+    },
+    {
+      "user_query": "ship this book to 2nd street , noida, sector 62",
+      "bot_response": "Yes. Orders over $35 qualify for free standard shipping within the continental US.",
+      "timestamp": "2026-04-23T15:56:46Z"
+    },
+    {
+      "user_query": "so what is my order id",
+      "bot_response": "Use the chat: say 'Check my order' followed by your order ID, or check your confirmation email for a tracking link.",
+      "timestamp": "2026-04-23T15:57:19Z"
+    },
+    {
+      "user_query": "check my order",
+      "bot_response": "Please provide your order number (e.g. *Check my order 10002*).",
+      "timestamp": "2026-04-23T15:57:29Z"
+    },
+    {
+      "user_query": "show me the list of orders",
+      "bot_response": "Here are your current orders at Ansira Book Shop:\n\n1. Order #10002 - Atomic Habits by James Clear\n2. Order #10003 - The Midnight Library by Matt Haig\n3. Order #10004 - Sapiens by Yuval Noah Harari\n4. Order #10005 - Educated by Tara Westover\n5. Order #10006 - Project Hail Mary by Andy Weir\n6. Order #10007 - The Psychology of Money by Morgan Housel\n7. Order #10008 - Where the Crawdads Sing by Delia Owens\n8. Order #10009 - Thinking, Fast and Slow by Daniel Kahneman\n9. Order #10010 - Dune by Frank Herbert\n10. Order #10011 - The Silent Patient by Alex Michaelides\n11. Order #10012 - Becoming by Michelle Obama\n12. Order #10013 - The Alchemist by Paulo Coelho\n\nPlease use the chat or check your confirmation emails for more details on each order, including tracking information and total cost.",
+      "timestamp": "2026-04-23T15:57:57Z"
+    },
+    {
+      "user_query": "show me the list of books ",
+      "bot_response": "Here is the book list:\n\n1. Atomic Habits by James Clear (Genre: Self-Help) - $16.99 - Stock: 42\n2. The Midnight Library by Matt Haig (Genre: Fiction) - $14.50 - Stock: 28\n3. Educated by Tara Westover (Genre: Memoir) - $17.25 - Stock: 19\n4. The Psychology of Money by Morgan Housel (Genre: Finance) - $13.95 - Stock: 30\n5. Where the Crawdads Sing by Delia Owens (Genre: Fiction) - $12.99 - Stock: 15\n6. The Silent Patient by Alex Michaelides (Genre: Thriller) - $14.00 - Stock: 18\n7. Becoming by Michelle Obama (Genre: Memoir) - $16.50 - Stock: 26\n8. The Alchemist by Paulo Coelho (Genre: Fiction) - $10.99 - Stock: 50\n9. Harry Potter and the Sorcerer's Stone by J.K. Rowling (Genre: Fantasy) - $12.50 - Stock: 60\n10. The Lean Startup by Eric Ries (Genre: Business) - $17.00 - Stock: 20\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T16:09:57Z"
+    },
+    {
+      "user_query": "i want to buy Atomic Habits by James Clear book ",
+      "bot_response": "Great choice! To purchase \"Atomic Habits\" by James Clear, please proceed with the following steps:\n\n1. Confirm the book details: Title - Atomic Habits, Author - James Clear, Genre - Self-Help, Price - $16.99, Stock - 42\n2. Enter the quantity you'd like to purchase (e.g., 2 copies)\n3. Provide your shipping address and preferred payment method\n4. Complete the checkout process\n\nOnce your order is processed, we will send you a confirmation email with your order details. Thank you for shopping at Ansira Book Shop!",
+      "timestamp": "2026-04-23T16:10:52Z"
+    },
+    {
+      "user_query": "show me book list",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T16:25:36Z"
+    },
+    {
+      "user_query": "show me book list ",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T16:26:08Z"
+    },
+    {
+      "user_query": "show me list of all books",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 30 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-04-23T16:26:15Z"
+    },
+    {
+      "user_query": "all books",
+      "bot_response": "Here are all the books we carry at Ansira Book Shop:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 30 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n| B014 | The Midnight Library | Matt Haig | Fiction | $17.99 | 28 |\n| B016 | Sapiens | Yuval Noah Harari | History | $18.00 | 35 |\n| B017 | Project Hail Mary | Andy Weir | Science Fiction | $27.99 | 14 |\n| B018 | Where the Crawdads Sing | Delia Owens | Fiction | $16.99 | 32 |\n| B019 | Thinking, Fast and Slow | Daniel Kahneman | Psychology | $17.00 | 24 |\n| B020 | Dune | Frank Herbert | Science Fiction | $18.99 | 21 |\n| B021 | The Silent Patient | Alex Michaelides | Mystery/Thriller | $16.99 | 37 |\n| B022 | The Alchemist | Paulo Coelho | Fiction | $8.99 | 45 |",
+      "timestamp": "2026-04-23T16:27:08Z"
+    }
+  ],
+  "analytics": {
+    "total_queries": 37,
+    "book_searches": 12,
+    "orders_placed": 4
+  }
+}

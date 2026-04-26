@@ -1,0 +1,94 @@
+{
+  "faqs": [
+    {
+      "id": "faq1",
+      "question": "What are your store hours?",
+      "answer": "Ansira Book Shop is open Monday–Saturday 9:00 AM–8:00 PM and Sunday 10:00 AM–6:00 PM.",
+      "keywords": ["hours", "open", "closing", "time", "when"]
+    },
+    {
+      "id": "faq2",
+      "question": "Do you offer free shipping?",
+      "answer": "Yes. Orders over $35 qualify for free standard shipping within the continental US.",
+      "keywords": ["shipping", "delivery", "free", "ship"]
+    },
+    {
+      "id": "faq3",
+      "question": "What is your return policy?",
+      "answer": "Unopened books may be returned within 30 days with receipt for a full refund. Opened items may be exchanged for store credit.",
+      "keywords": ["return", "refund", "exchange", "policy"]
+    },
+    {
+      "id": "faq4",
+      "question": "How can I track my order?",
+      "answer": "Use the chat: say 'Check my order' followed by your order ID, or check your confirmation email for a tracking link.",
+      "keywords": ["track", "order status", "where is my order", "tracking"]
+    },
+    {
+      "id": "faq5",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit cards, debit cards, PayPal, and Apple Pay for online orders.",
+      "keywords": ["payment", "pay", "card", "paypal"]
+    },
+    {
+      "id": "faq6",
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes. Earn 1 point per dollar spent; 100 points equals $5 off your next purchase.",
+      "keywords": ["loyalty", "points", "rewards", "program"]
+    },
+    {
+      "id": "faq7",
+      "question": "Can I cancel an order?",
+      "answer": "You can cancel placed orders before they ship by saying 'Cancel my order' with your order ID here in chat.",
+      "keywords": ["cancel", "cancellation", "stop order"]
+    },
+    {
+      "id": "faq8",
+      "question": "Do you sell e-books?",
+      "answer": "We primarily stock physical books. Selected titles are available as e-books—search by title or ask us in chat.",
+      "keywords": ["ebook", "e-book", "digital", "kindle"]
+    },
+    {
+      "id": "faq9",
+      "question": "How long does delivery take?",
+      "answer": "Standard shipping is 3–5 business days; express options are available at checkout.",
+      "keywords": ["delivery", "how long", "shipping time", "arrive"]
+    },
+    {
+      "id": "faq10",
+      "question": "Is my payment information secure?",
+      "answer": "Yes. We use industry-standard encryption and never store full card numbers on our servers.",
+      "keywords": ["secure", "security", "privacy", "safe"]
+    },
+    {
+      "id": "faq11",
+      "question": "Do you gift wrap?",
+      "answer": "Gift wrapping is available for $3.99 per item—mention it when placing your order notes.",
+      "keywords": ["gift", "wrap", "present", "wrapping"]
+    },
+    {
+      "id": "faq12",
+      "question": "Can I reserve a book?",
+      "answer": "You can place an order to reserve in-stock items; we hold reservations for 48 hours after confirmation.",
+      "keywords": ["reserve", "hold", "pre-order"]
+    },
+    {
+      "id": "faq13",
+      "question": "Where is the store located?",
+      "answer": "Our flagship store is at 123 Literary Lane, Booktown. Online orders ship nationwide.",
+      "keywords": ["location", "address", "where", "store"]
+    },
+    {
+      "id": "faq14",
+      "question": "Do you price match?",
+      "answer": "We match listed prices from major US retailers for identical ISBNs within 7 days of purchase.",
+      "keywords": ["price match", "cheaper", "competitor"]
+    },
+    {
+      "id": "faq15",
+      "question": "How do I contact support?",
+      "answer": "Chat here anytime, email support@ansira.ai, or call 1-800-BOOK-HELP during business hours.",
+      "keywords": ["contact", "support", "help", "email", "phone"]
+    }
+  ]
+}
