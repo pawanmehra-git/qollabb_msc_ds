@@ -184,11 +184,16 @@
       "user_query": "all books",
       "bot_response": "Here are all the books we carry at Ansira Book Shop:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 30 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n| B014 | The Midnight Library | Matt Haig | Fiction | $17.99 | 28 |\n| B016 | Sapiens | Yuval Noah Harari | History | $18.00 | 35 |\n| B017 | Project Hail Mary | Andy Weir | Science Fiction | $27.99 | 14 |\n| B018 | Where the Crawdads Sing | Delia Owens | Fiction | $16.99 | 32 |\n| B019 | Thinking, Fast and Slow | Daniel Kahneman | Psychology | $17.00 | 24 |\n| B020 | Dune | Frank Herbert | Science Fiction | $18.99 | 21 |\n| B021 | The Silent Patient | Alex Michaelides | Mystery/Thriller | $16.99 | 37 |\n| B022 | The Alchemist | Paulo Coelho | Fiction | $8.99 | 45 |",
       "timestamp": "2026-04-23T16:27:08Z"
+    },
+    {
+      "user_query": "show me list of all books",
+      "bot_response": "Here are books that match your request:\n\n| ID | Title | Author | Genre | Price | Stock |\n|---|---|---|---|---:|---:|\n| B001 | Atomic Habits | James Clear | Self-Help | $16.99 | 42 |\n| B004 | Educated | Tara Westover | Memoir | $17.25 | 19 |\n| B006 | The Psychology of Money | Morgan Housel | Finance | $13.95 | 30 |\n| B011 | Becoming | Michelle Obama | Memoir | $16.50 | 26 |\n\n**You may also like:** Deep Work",
+      "timestamp": "2026-05-07T22:28:20Z"
     }
   ],
   "analytics": {
-    "total_queries": 37,
-    "book_searches": 12,
+    "total_queries": 38,
+    "book_searches": 13,
     "orders_placed": 4
   }
 }
